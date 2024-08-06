@@ -5,6 +5,19 @@ I’m currently learning React and Three.js Feel free to reach out for collabora
 <p align="start"> <img width="420px" src="https://github.com/hadeel07/hadeel07/blob/main/github-contribution-grid-snake.svg" alt="snake"></center></p>
 
 ---
+**👋  Get in touch**
+
+- <a href="https://linkedin.com/in/hadeelkadhim" target="blank">LinkedIn</a>
+- <a href="https://twitter.com/HadeelKadhm" target="blank">Twitter</a>
+- <a href="https://dribbble.com/kadhm" target="blank">Dribble</a>
+
+---
+**🎨  Playground**
+Small things I create while learning
+
+WIP ...
+
+---
 **🛠  Languages and tools:**
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
