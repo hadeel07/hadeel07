@@ -2,7 +2,7 @@
 <h3>A passionate freelance UI designer & Developer from Sweden</h3>
 
 I’m currently learning React and Three.js Feel free to reach out for collaboration!
-<p align="start"> <img width="420px" src="" alt="snake"></center></p>
+<p align="start"> <img width="420px" src="https://github.com/hadeel07/hadeel07/blob/main/github-contribution-grid-snake.svg" alt="snake"></center></p>
 
 ---
 **🛠  Languages and tools:**
